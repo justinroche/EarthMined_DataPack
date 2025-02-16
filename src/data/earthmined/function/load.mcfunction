@@ -19,7 +19,7 @@ scoreboard objectives add DioriteMined minecraft.mined:minecraft.diorite "Diorit
 scoreboard objectives add AndesiteMined minecraft.mined:minecraft.andesite "Andesite Mined"
 scoreboard objectives add CoarseDirtMined minecraft.mined:minecraft.coarse_dirt "Coarse Dirt Mined"
 scoreboard objectives add PodzolMined minecraft.mined:minecraft.podzol "Podzol Mined"
-scoreboard objectives add Mycelium minecraft.mined:minecraft.mycelium "Mycelium Mined"
+scoreboard objectives add MyceliumMined minecraft.mined:minecraft.mycelium "Mycelium Mined"
 
 # Set display
 scoreboard objectives setdisplay list MinedTotal
