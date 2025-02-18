@@ -12,7 +12,6 @@ scoreboard objectives add RedSandstoneMined minecraft.mined:minecraft.red_sandst
 scoreboard objectives add GravelMined minecraft.mined:minecraft.gravel "Gravel Mined"
 scoreboard objectives add GrassBlockMined minecraft.mined:minecraft.grass_block "Grass Block Mined"
 scoreboard objectives add ClayMined minecraft.mined:minecraft.clay "Clay Mined"
-scoreboard objectives add BasaltMined minecraft.mined:minecraft.basalt "Basalt Mined"
 scoreboard objectives add TuffMined minecraft.mined:minecraft.tuff "Tuff Mined"
 scoreboard objectives add GraniteMined minecraft.mined:minecraft.granite "Granite Mined"
 scoreboard objectives add DioriteMined minecraft.mined:minecraft.diorite "Diorite Mined"
