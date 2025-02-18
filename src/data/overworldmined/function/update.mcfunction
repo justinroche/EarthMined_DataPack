@@ -12,7 +12,6 @@ execute as @a run scoreboard players operation @s MinedTotal += @s RedSandstoneM
 execute as @a run scoreboard players operation @s MinedTotal += @s GravelMined
 execute as @a run scoreboard players operation @s MinedTotal += @s GrassBlockMined
 execute as @a run scoreboard players operation @s MinedTotal += @s ClayMined
-execute as @a run scoreboard players operation @s MinedTotal += @s BasaltMined
 execute as @a run scoreboard players operation @s MinedTotal += @s TuffMined
 execute as @a run scoreboard players operation @s MinedTotal += @s GraniteMined
 execute as @a run scoreboard players operation @s MinedTotal += @s DioriteMined
