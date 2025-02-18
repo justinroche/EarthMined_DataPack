@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 61,
-    "description": "Tracks earthen blocks mined in tab menu"
+    "description": "Tracks players' mining of various overworld blocks in tab menu"
   }
 }
