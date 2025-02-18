@@ -1,10 +1,10 @@
-# Earth Mined Datapack
+# Overworld Mined Datapack
 
-**Version:** v1.0.0 (Minecraft 1.21.4)
+**Version:** v1.1.0 (Minecraft 1.21.4)
 
 ## Overview
 
-**Earth Mined** is a Minecraft datapack that tracks players' mining activities of various earthen blocks. It displays the total number of these blocks mined by each player in the tab menu.
+**Overworld Mined** is a Minecraft datapack that tracks players' mining activities of various overworld/earthen blocks. It displays the total number of these blocks mined by each player in the tab menu.
 
 ## Features
 
@@ -13,7 +13,6 @@
   - Granite
   - Diorite
   - Andesite
-  - Basalt
   - Tuff
   - Deepslate
   - Dirt
@@ -32,7 +31,7 @@
 
 1. **Download the datapack:**
 
-   - Download the `.zip` file of the latest version from the [Releases](https://github.com/justinroche/EarthMined_DataPack/releases) page.
+   - Download the `.zip` file of the latest version from the [Releases](https://github.com/justinroche/OverworldMined_Datapack/releases) page.
 
 2. **Add to your world:**
 
